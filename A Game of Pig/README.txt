@@ -1,3 +1,4 @@
+CIS 162 - Project 3 - Fall 2017
 Game Rules  
 - The game requires two six-sided dice.
 - Players take turns until someone wins by earning at least 100 points
