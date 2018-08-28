@@ -1,3 +1,5 @@
+CIS 162 - Project 2 - Fall 2017
+
 # Description:
 - Create a class to simulate basic functionality of a smart phone.  
 - The owner ‘pretends’ to do basic tasks like send texts, stream audio (e.g. Pandora) and print a monthly statement.  
