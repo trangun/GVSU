@@ -12,6 +12,10 @@ Winter 2018:
  - Mix and Unmix
  
  # Python Projects:
+ - Digraph and Relations
+ - Dijkstra's Algorithm
+ 
+ # C++ Projects:
  
  # R Projects:
  
