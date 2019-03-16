@@ -1,1 +1,1 @@
-ALl of the C++ assignments and projects
+All of the C++ assignments and projects
